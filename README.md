@@ -52,23 +52,8 @@ The focus of this task was correctness, clarity, edge-case handling, and clean a
 
 ---
 
-## 📁 Project Structure
-InternshipTask/
-│
-├── frontend/
-│ ├── index.html
-│ ├── style.css
-│ └── script.js
-│
-├── backend/
-│ ├── index.js
-│ ├── data.js
-│ ├── middleware/
-│ │ └── auth.js
-│ ├── package.json
-│ └── package-lock.json
-│
-└── README.md
+<img width="257" height="310" alt="image" src="https://github.com/user-attachments/assets/a22133e0-04b5-4760-b141-20724f83e0bb" />
+
 
 ---
 
